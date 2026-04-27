@@ -1,0 +1,15 @@
+C:\Facultate\CN\Assignment\sockets-betrupolka\UdpClientApp\UdpClientApp\bin\Debug\net10.0\UdpClientApp.exe
+C:\Facultate\CN\Assignment\sockets-betrupolka\UdpClientApp\UdpClientApp\bin\Debug\net10.0\UdpClientApp.deps.json
+C:\Facultate\CN\Assignment\sockets-betrupolka\UdpClientApp\UdpClientApp\bin\Debug\net10.0\UdpClientApp.runtimeconfig.json
+C:\Facultate\CN\Assignment\sockets-betrupolka\UdpClientApp\UdpClientApp\bin\Debug\net10.0\UdpClientApp.dll
+C:\Facultate\CN\Assignment\sockets-betrupolka\UdpClientApp\UdpClientApp\bin\Debug\net10.0\UdpClientApp.pdb
+C:\Facultate\CN\Assignment\sockets-betrupolka\UdpClientApp\UdpClientApp\obj\Debug\net10.0\UdpClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\CN\Assignment\sockets-betrupolka\UdpClientApp\UdpClientApp\obj\Debug\net10.0\UdpClientApp.AssemblyInfoInputs.cache
+C:\Facultate\CN\Assignment\sockets-betrupolka\UdpClientApp\UdpClientApp\obj\Debug\net10.0\UdpClientApp.AssemblyInfo.cs
+C:\Facultate\CN\Assignment\sockets-betrupolka\UdpClientApp\UdpClientApp\obj\Debug\net10.0\UdpClientApp.csproj.CoreCompileInputs.cache
+C:\Facultate\CN\Assignment\sockets-betrupolka\UdpClientApp\UdpClientApp\obj\Debug\net10.0\UdpClientApp.sourcelink.json
+C:\Facultate\CN\Assignment\sockets-betrupolka\UdpClientApp\UdpClientApp\obj\Debug\net10.0\UdpClientApp.dll
+C:\Facultate\CN\Assignment\sockets-betrupolka\UdpClientApp\UdpClientApp\obj\Debug\net10.0\refint\UdpClientApp.dll
+C:\Facultate\CN\Assignment\sockets-betrupolka\UdpClientApp\UdpClientApp\obj\Debug\net10.0\UdpClientApp.pdb
+C:\Facultate\CN\Assignment\sockets-betrupolka\UdpClientApp\UdpClientApp\obj\Debug\net10.0\UdpClientApp.genruntimeconfig.cache
+C:\Facultate\CN\Assignment\sockets-betrupolka\UdpClientApp\UdpClientApp\obj\Debug\net10.0\ref\UdpClientApp.dll

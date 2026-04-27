@@ -1,0 +1,15 @@
+C:\Facultate\CN\Assignment\sockets-betrupolka\TcpClientApp\bin\Debug\net10.0\TcpClientApp.exe
+C:\Facultate\CN\Assignment\sockets-betrupolka\TcpClientApp\bin\Debug\net10.0\TcpClientApp.deps.json
+C:\Facultate\CN\Assignment\sockets-betrupolka\TcpClientApp\bin\Debug\net10.0\TcpClientApp.runtimeconfig.json
+C:\Facultate\CN\Assignment\sockets-betrupolka\TcpClientApp\bin\Debug\net10.0\TcpClientApp.dll
+C:\Facultate\CN\Assignment\sockets-betrupolka\TcpClientApp\bin\Debug\net10.0\TcpClientApp.pdb
+C:\Facultate\CN\Assignment\sockets-betrupolka\TcpClientApp\obj\Debug\net10.0\TcpClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\CN\Assignment\sockets-betrupolka\TcpClientApp\obj\Debug\net10.0\TcpClientApp.AssemblyInfoInputs.cache
+C:\Facultate\CN\Assignment\sockets-betrupolka\TcpClientApp\obj\Debug\net10.0\TcpClientApp.AssemblyInfo.cs
+C:\Facultate\CN\Assignment\sockets-betrupolka\TcpClientApp\obj\Debug\net10.0\TcpClientApp.csproj.CoreCompileInputs.cache
+C:\Facultate\CN\Assignment\sockets-betrupolka\TcpClientApp\obj\Debug\net10.0\TcpClientApp.sourcelink.json
+C:\Facultate\CN\Assignment\sockets-betrupolka\TcpClientApp\obj\Debug\net10.0\TcpClientApp.dll
+C:\Facultate\CN\Assignment\sockets-betrupolka\TcpClientApp\obj\Debug\net10.0\refint\TcpClientApp.dll
+C:\Facultate\CN\Assignment\sockets-betrupolka\TcpClientApp\obj\Debug\net10.0\TcpClientApp.pdb
+C:\Facultate\CN\Assignment\sockets-betrupolka\TcpClientApp\obj\Debug\net10.0\TcpClientApp.genruntimeconfig.cache
+C:\Facultate\CN\Assignment\sockets-betrupolka\TcpClientApp\obj\Debug\net10.0\ref\TcpClientApp.dll
